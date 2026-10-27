@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """check_audio.py - regression check for a KOF 2003 coin/start capture.
 
 Fails if the capture has a sustained silent stretch after power-on.  The

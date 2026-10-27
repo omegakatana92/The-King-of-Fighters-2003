@@ -1,4 +1,4 @@
-﻿/*
+/*
  * main.c - The King of Fighters 2003 player.
  *
  * The board model, the interpreter fallback, the window and the audio live

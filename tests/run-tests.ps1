@@ -1,4 +1,4 @@
-﻿# run-tests.ps1 - deterministic headless checks for a built Windows player.
+# run-tests.ps1 - deterministic headless checks for a built Windows player.
 # Usage:
 #   powershell -ExecutionPolicy Bypass -File tests\run-tests.ps1 `
 #       -Exe "build-windows\Release\KOF 2003.exe" -Roms "build-windows\roms"

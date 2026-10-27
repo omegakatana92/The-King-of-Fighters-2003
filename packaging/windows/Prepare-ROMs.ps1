@@ -1,4 +1,4 @@
-﻿# Prepare-ROMs.ps1 - build a runtime-ready KOF 2003 ROM set from your own dumps.
+# Prepare-ROMs.ps1 - build a runtime-ready KOF 2003 ROM set from your own dumps.
 #
 # This script extracts the MAME "kof2003" and "neogeo" sets and runs the
 # bundled decrypt tool.  It downloads nothing and contains no ROM data.

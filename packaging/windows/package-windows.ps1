@@ -1,4 +1,4 @@
-﻿# package-windows.ps1 - assemble dist/windows/KOF 2003-Windows-x64 from a
+# package-windows.ps1 - assemble dist/windows/KOF 2003-Windows-x64 from a
 # Release build.  ROMs are never copied: the user supplies their own.
 param(
     [string]$BuildDir = "",

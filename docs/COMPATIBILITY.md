@@ -1,4 +1,4 @@
-﻿# Hardware compatibility
+# Hardware compatibility
 
 *The King of Fighters 2003* (NGM-2710 export / NGH-2710 AES) is a late Neo
 Geo cartridge.  MAME's `kof2003` set describes the board as:

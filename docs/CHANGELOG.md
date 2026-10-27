@@ -1,4 +1,4 @@
-﻿# Project changelog
+# Project changelog
 
 ## 0.1.0 - initial KOF 2003 port
 

@@ -1,4 +1,4 @@
-﻿/*
+/*
  * recomp_main.c - kof2003_recomp, the generator: reads the decrypted ROM
  * files and writes the recompiled C into the build tree.
  */

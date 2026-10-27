@@ -1,4 +1,4 @@
-﻿# Testing report
+# Testing report
 
 Environment: Windows 11 x64, MSVC 19.51 (Visual Studio 18 2026), CMake 4.3;
 Ubuntu 22.04 under WSL2, GCC 11.4, CMake 4.4, SDL2 2.0.20.  MAME 0.242 was

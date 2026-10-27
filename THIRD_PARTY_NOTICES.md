@@ -1,4 +1,4 @@
-﻿# Third-party notices
+# Third-party notices
 
 This project is a game-specific host for **neogeorecomp**, a static
 recompilation toolkit for SNK Neo Geo.  It contains original project code and
