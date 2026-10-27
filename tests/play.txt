@@ -1,0 +1,100 @@
+# tests/play.txt - scripted coverage session for the `profile` target.
+#
+# Coin/start/team selection as in coin_start.txt, then a long 1P match with
+# movement, jumps, all four attack buttons, throws, and the B+C / C+D
+# change-player combinations.  It is a coverage aid, not a claim that every
+# menu, character or move was exercised.
+1200 coin
+1500 coin
+1800 coin
+2400 start
+3600 a
+4200 a
+4700 a
+5200 start
+
+# opening round
+5600-6600 right
+5800 a
+6000 b
+6200 c
+6400 d
+6800 up
+7000 a
+7200 b
+7400 c
+7600 d
+7800-8800 left
+8000 a
+8200 b
+8400 c
+8600 d
+9000 a
+9200 b
+9400 c
+9600 d
+9800 down
+10000 a
+10200 b
+10400 c
+10600 d
+10800-11800 right
+11000 a
+11200 b
+11400 c
+11600 d
+12000 a
+12200 b
+12400 c
+12600 d
+12800-13800 left
+13000 a
+13200 b
+13400 c
+13600 d
+14000 a
+14200 b
+14400 c
+14600 d
+14800 up
+15000 a
+15200 b
+15400 c
+15600 d
+
+# second round: mix in the change-player combinations
+16000 b
+16001 c
+17000 c
+17001 d
+18000 a
+18200 b
+18400 c
+18600 d
+18800-19800 right
+19000 a
+19200 b
+19400 c
+19600 d
+20000 a
+20200 b
+20400 c
+20600 d
+20800-21800 left
+21000 a
+21200 b
+21400 c
+21600 d
+22000 a
+22200 b
+22400 c
+22600 d
+22800 up
+23000 a
+23200 b
+23400 c
+23600 d
+24000 a
+24200 b
+24400 c
+24600 d

@@ -1,0 +1,13 @@
+# tests/coin_start.txt - insert coins, start a 1P game, pick a team and
+# confirm the order.  Frame numbers are 59.19 Hz video frames from power-on.
+# This title's BIOS/attract timing is longer than the older ports: the title
+# with "PRESS P1 OR P2 START" appears around frame 2300.
+1200 coin
+1500 coin
+1800 coin
+2400 start
+# character select: leader, two members, then the order screen
+3600 a
+4200 a
+4700 a
+5200 start

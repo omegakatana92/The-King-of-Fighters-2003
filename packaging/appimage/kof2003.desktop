@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=The King of Fighters 2003
+Comment=Static 68000 recompilation of the SNK Neo Geo game
+Exec=KOF2003
+Icon=kof2003
+Terminal=false
+Categories=Game;ArcadeGame;
